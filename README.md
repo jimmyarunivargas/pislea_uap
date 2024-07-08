@@ -1,4 +1,4 @@
-# pislea_uap
+# pislea_uap V 1.0
 **Título:** Plan de Implementación de Software Libre en la Universidad Amazonica de Pando
 
 **Descripción:**
